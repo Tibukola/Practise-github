@@ -1,0 +1,41 @@
+.explore{
+    width: 1160px;
+    height: 67px;
+    font-family: Baloo Bhai;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 61px;
+    line-height: 67px;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.find{
+    width: 1160px;
+    height: 32px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.container{
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+    width: fill(1160px);
+    height: 158px;
+    top: 314.5px;
+    left: 140px;
+}
